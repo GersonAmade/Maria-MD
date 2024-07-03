@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "258833868906"
+global.ownernumber =  "258850442534"
 global.ownername = "Gerson Codes"
 global.ytname = "YT: Technew"
 global.socialm = "GitHub: Gersoncodes"
@@ -20,7 +20,7 @@ global.themeemoji = '🧩'
 global.wm = "Gerson botz inc."
 
 //theme link
-global.link = 'https://chat.whatsapp.com/Jllsl2OaQNoBjepxzuVsZM'
+global.link = 'https://chat.whatsapp.com/GWgALrT6peC3sf10a8xuHE'
 
 //custom prefix
 global.prefa = ['.']
